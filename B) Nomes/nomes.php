@@ -19,6 +19,6 @@ do{
   fwrite($out, "\n");
 } while($line != "0");
 
-fclose($out)
+fclose($out);
 fclose($in);
 ?>
