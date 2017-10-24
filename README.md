@@ -5,7 +5,13 @@ Exercícios resolvidos das Mini Maratonas de Programação do Instituto Federal 
  - [ ] **MMPIFSP 2012**: C, C++, Java, PHP e Pascal;  
  - [ ] **MMPIFSP 2013**: C, C++, Java, PHP e Pascal;  
  - [ ] **MMPIFSP 2014**: C, C++, Java, PHP e Python;  
- - [x] **MMPIFSP 2015**: C, C++, Java, **PHP** e Python;  
- - [ ] **MMPIFSP 2016**: C, C++, Java, PHP e Python.  
+ - [x] **MMPIFSP 2015**: Java, **PHP** e Python;  
+ - [ ] **MMPIFSP 2016**: Java, PHP e Python.  
+ - [ ] **MMPIFSP 2017**: Java, PHP e **Python**. (\***Elixir**)
 
-Este que vos fala participou de 3 das maratonas, de 2012, 2015 e 2016, atingindo o 2º, 2º e 5º lugar (surpreendido por um INF no PHP sem BigInt :laughing:) respectivamente.
+**\*** Elixir não é utilizada na maratona, mas coloquei porque achei interessante. Mas ela teria total desvantagem na competição mesmo que permitida.
+
+Este que vos fala participou de 4 das maratonas, de 2012, 2015 e 2016, atingindo o 2º, 2º e 5º**\*** e 1º**\*\*** lugar respectivamente.
+
+**\*** Surpreendido por um INF no PHP sem BigInt :laughing:
+**\*\*** Agora tenho minha participação impedida, apenas poderei entrar como juiz
