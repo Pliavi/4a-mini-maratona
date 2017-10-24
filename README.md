@@ -7,7 +7,7 @@ Logo abaixo estão as lingugens permitidas em cada maratona, e em negrito está 
  - [ ] **MMPIFSP 2014**: C, C++, Java, PHP e Python;  
  - [x] **MMPIFSP 2015**: Java, **PHP** e Python;  
  - [ ] **MMPIFSP 2016**: Java, PHP e Python.  
- - [ ] **MMPIFSP 2017**: Java, PHP e **Python**. (**Elixir¹**)
+ - [x] **MMPIFSP 2017**: Java, PHP e **Python**. (**Elixir¹**)
 
 ¹ Elixir não é utilizada na maratona, mas coloquei porque achei interessante. Mas ela teria total desvantagem na competição mesmo que permitida.
 
