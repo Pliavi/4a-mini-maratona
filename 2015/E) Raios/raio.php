@@ -16,4 +16,3 @@ $out = fopen("raio.out", "w");
 
 fclose($out);
 fclose($in);
-?>
