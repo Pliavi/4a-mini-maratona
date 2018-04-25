@@ -27,4 +27,3 @@ while(($line = fgets($in))[0] != 0){
 
 fclose($out);
 fclose($in);
-?>

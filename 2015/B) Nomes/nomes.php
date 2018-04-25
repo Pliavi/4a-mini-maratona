@@ -21,4 +21,3 @@ do{
 
 fclose($out);
 fclose($in);
-?>
